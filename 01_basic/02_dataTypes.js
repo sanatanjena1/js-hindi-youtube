@@ -16,3 +16,19 @@ let isTrue = true; // Boolean
 let nothing = null; // Null
 let notDefined; // Undefined
 let uniqueKey = Symbol("key"); // Symbol
+
+
+// Non-primitive Data Types Also known as reference types, 
+// can hold collections of values and are mutable. They are compared by reference
+
+// For Example Non-primitive data types
+let person = { name: "Jane", age: 25 }; // Object
+let numbers = [1, 2, 3, 4, 5]; // Array
+function greet(name) { // Function
+  return "Hello, " + name + "!";
+}
+
+// Object: A collection of key-value pairs.
+// Array: An ordered list of values.
+// Function: A block of code designed to perform a specific task.
+
