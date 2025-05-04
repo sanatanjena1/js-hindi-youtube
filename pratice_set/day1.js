@@ -16,3 +16,4 @@ console.log(`Hello, ${name2}!`); // Output: Hello, World!
 
 let my = "Good Mornig"
 console.log(`Hello Sir ${my} Have a Nice Day`)
+
